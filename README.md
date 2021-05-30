@@ -1,14 +1,5 @@
 
-<!-- ### Hi there 👋 -->
-
-### ⚡ I want to become a backend developer ⚡
-
-#### About me  🙋‍♀️
-
-- Hyun Jiyeon 
-- Dongduk Women's University 
-- Computer Science Dept
-- I'm interested in Web Backend 👩‍💻
+### Hi there 👋
 
 <!--
 **hjyeon-n/hjyeon-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
